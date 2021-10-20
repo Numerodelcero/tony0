@@ -112,9 +112,8 @@ const Cowner = confi.CoOwnerN
 const mods = confi.mods
 const ownerName = confi.nombreCreador
 
-//---------𝗥𝗘𝗗𝗘𝗦 𝗦𝗢𝗖𝗜𝗔𝗟𝗘𝗦---------
-const  soportefg  =  'https://chat.whatsapp.com/G5sXrkhJ0pb0Tu8nhWLaFK' 
-const instafg = 'https://www.instagram.com/fg98._'
+// --------- 𝗥𝗘𝗗𝗘𝗦 𝗦𝗢𝗖𝗜𝗔𝗟𝗘𝗦 ---------
+const   instafg   = 'https://www.instagram.com/fg98._'
 
 //-----fakethumb-----
 fakefg = fs.readFileSync('./image/fake.jpg')
